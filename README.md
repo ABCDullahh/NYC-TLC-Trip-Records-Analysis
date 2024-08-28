@@ -65,6 +65,7 @@ Rekomendasi ini dirancang untuk memberikan **fleksibilitas** kepada driver dalam
 
 Untuk visualisasi data yang lebih mendalam, Anda dapat mengakses dasbor interaktif Tableau melalui tombol di bawah ini:
 
-[![Tableau Dashboard](https://img.shields.io/badge/Visualize_on-Tableau-blue)]([https://public.tableau.com/shared/H4RW42MNH?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/capstone_17247814146250/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[![Tableau Dashboard](https://img.shields.io/badge/Visualize_on-Tableau-blue)](https://public.tableau.com/views/capstone_17247814146250/Capstone2ProjectNYCTLCTripJAN2023?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ---
