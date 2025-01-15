@@ -1,6 +1,8 @@
-# CapstoneProject-Module-02
-
 # NYC Taxi and Limousine Commission (TLC) Analysis
+
+[**Presentation**](https://www.canva.com/design/DAGPVz-ewMs/TaTvkdfU891Lslnok41KAg/view?utm_content=DAGPVz-ewMs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfe3a7a59fb)
+
+[**Dashboard**](https://public.tableau.com/views/capstone_17247814146250/Capstone2ProjectNYCTLCTripJAN2023?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Latar Belakang
 
